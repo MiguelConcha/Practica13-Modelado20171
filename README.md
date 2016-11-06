@@ -1,6 +1,7 @@
 # Practica13-Modelado20171
 
 __Bubble Sort para arreglos de tipo int y double implementado en C__
+![ineffective_sorts](https://cloud.githubusercontent.com/assets/13952922/20040531/3de917ca-a41f-11e6-842f-e0d274128622.png)
 
 Se efectuó una implementación análoga al qsort, pero llevando a cabo el algoritmo de ordenamiento BubbleSort O(n^2) para ordenar un arreglo.
 
@@ -19,4 +20,4 @@ La función recibe:
   Un entero mayor a cero si el primer elemento es mayor que el segundo. 
   Cero en caso de que sean el mismo elemento.
   
-Además, se implementó la funcionalidad de poder generar arreglos de tipo entero o double con elementos pseudo-aleatorios a partir de la semilla de time(NULL) --segundos transcurridos desde del 1ero. de enero de 1970, en un rango a partir de la cota inferior y superior dadas como parámetros a dicha función. El rango es inclusivo.
+Además, se implementó la funcionalidad de poder generar arreglos de tipo entero o double con elementos pseudo-aleatorios a partir de la semilla de time(NULL) —segundos transcurridos desde del 1ero. de enero de 1970, en un rango a partir de la cota inferior y superior dadas como parámetros a dicha función. El rango es inclusivo.
